@@ -1,75 +1,82 @@
-# Hi, I'm Azeddine Jannane 
+# Azeddine Jannane
 
-### Web Full Stack Development Student | Aspiring Software Engineer
+### Web Full Stack Developer
 
-I'm a Web Full Stack Development student at **CMC (OFPPT), Morocco**, passionate about building modern, responsive, and useful web applications.
+Web Full Stack Development student at **CMC (OFPPT), Morocco**, interested in building modern, responsive, and functional web applications.
 
-I enjoy learning new technologies, solving problems, and turning ideas into functional projects.
-
--  Studying Web Full Stack Development at CMC
--  Building full-stack web applications
--  Continuously improving my development skills
--  Currently focused on React, JavaScript, PHP, and MySQL
--  Looking for a **Web Development Internship**
+I enjoy exploring new technologies, solving development challenges, and transforming ideas into practical digital solutions.
 
 ---
 
-##  Technologies & Tools
+## About Me
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Database**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- Web Full Stack Development student at CMC.
+- Focused on frontend and backend web development.
+- Interested in software engineering and modern web technologies.
+- Building practical projects to strengthen my development skills.
+- Continuously learning and improving through hands-on experience.
 
 ---
 
-##  Featured Project
+## Technical Skills
+
+**Frontend Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend Development & Database**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Development Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Featured Project
 
 ### SYF — Simple File Transfer
 
-A full-stack file-sharing web application that allows users to upload, share, and download files without creating an account.
+A full-stack web application designed to make file sharing simple and accessible without requiring user accounts.
 
-**Features:**
+**Key Features**
 - Multiple file uploads
-- Unique sharing codes and QR codes
+- Unique sharing codes
+- QR code generation
 - Optional password protection
 - Automatic file expiration
 - Responsive user interface
 
-**Built with:** React, JavaScript, Vite, Tailwind CSS, PHP, and MySQL.
+**Technologies:** React, JavaScript, Vite, Tailwind CSS, PHP, MySQL.
 
- [Live Demo](https://syf.site.je) ·  [Source Code](https://github.com/azadinjn/SYF)
-
----
-
-##  GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azadinjn&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azadinjn&layout=compact&theme=tokyonight&hide_border=true)
+[Live Demo](https://syf.site.je) · [Source Code](https://github.com/azadinjn/SYF)
 
 ---
 
-##  Connect With Me
+## Currently Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azeddine-jannane-a709243a0/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azadinjn)
+- Advanced JavaScript
+- React development
+- Backend development with PHP
+- Database design and management
+- Software development best practices
 
 ---
 
- *Always learning, always building.*
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/azeddine-jannane-a709243a0/) · [GitHub](https://github.com/azadinjn)
+
+---
+
+<p align="center">
+  <sub>Building, learning, and improving through code.</sub>
+</p>
