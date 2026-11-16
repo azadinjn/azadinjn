@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.png" width="100%" alt="Azeddine Jannane - Web Full Stack Developer">
+</p>
+
 # Azeddine Jannane
 
 ### Web Full Stack Developer
